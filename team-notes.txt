@@ -3,8 +3,16 @@ TEAM NOTES
 Repository changes should be focused and independently reviewable.
 Shared files should remain understandable without relying on local context.
 Contributors should work through feature branches.
+
 BRANCH WORKFLOW
 1. Update main.
 2. Create a feature branch.
 3. Commit focused changes.
 4. Open a Pull Request.
+
+REVIEW GUIDELINES
+
+- Read the changed files.
+- Check the scope.
+- Confirm CI passes.
+- Request changes when necessary.
